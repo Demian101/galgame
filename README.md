@@ -1,6 +1,7 @@
-# galgame
-Web  spider www.mygalgame.com
-The title and the picture of the whole website.
-pictures were named with its titles.
+抓取的网站是 www.mygalgame.com
+画风大概是这样的 
+![galgame](https://wx2.sinaimg.cn/mw690/006wh4bKly1fmwuttpyobj30za0hz4qp.jpg)
 
-Good Enjoy!!
+采用了 Requests + BeautifulSoup + Selenium 抓取 ,
+
+代码粗糙 , 万望海涵........
